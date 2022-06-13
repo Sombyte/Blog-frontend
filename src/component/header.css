@@ -1,0 +1,30 @@
+.header {
+    margin-top: 60px;
+}
+
+.headertiles {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Lora', serif;
+    color: black;
+}
+
+.bgimg {
+    height: 450px;
+    width: 100%;
+    margin-top: -55px;
+    object-fit: cover;
+}
+
+.headertilesNR {
+    position: absolute;
+    top: 15%;
+    font-size: 17px;
+}
+
+.headertilesB {
+    position: relative;
+    top: 30%;
+    font-size: 100px;
+}
