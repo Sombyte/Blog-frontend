@@ -4,7 +4,7 @@ import "bootstrap-icons/font/bootstrap-icons.css";
 import { Link } from "react-router-dom";
 
 export default function Topbar() {
-    const user = true;
+    const user = false;
     return (
         <div className="top">
             <div className="topleft">
